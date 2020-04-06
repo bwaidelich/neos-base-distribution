@@ -21,10 +21,7 @@
         "neos/site-kickstarter": "@dev",
 
         "neos/neos-ui": "@dev",
-        "neos/seo": "@dev",
         "neos/fusion-afx": "@dev",
-        "neos/redirecthandler-neosadapter": "@dev",
-        "neos/redirecthandler-databasestorage": "@dev",
 
         "neos/setup": "@dev",
         "neos/neos-setup": "@dev"
